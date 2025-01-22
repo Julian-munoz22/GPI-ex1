@@ -1,7 +1,7 @@
 # GPI-ex1
 Este es el repositorio de la primera clase
 # *Nombre: Julián Santiago Muñoz Garrido*
-*201622729*
+*Código: 201622729*
 
 
 
